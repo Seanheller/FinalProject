@@ -81,7 +81,7 @@ h2 {
 	line-height: 1.6em;
 	color: #454544;
 	text-decoration: none;
-	font-size: 18pt;
+	font-size: 30pt;
 }
 h3 {
 	font-family: 'Merriweather', Verdana, Arial, sans-serif;
@@ -101,11 +101,23 @@ h4 {
    color: #FFA500;
 }
 h5 {
-	font-family: 'Droid Serif', Verdana, Arial, sans-serif;
-	line-height: 1.6em;
+	font-family: 'Raleway', Verdana, Arial, sans-serif;
+	line-height: 2em;
 	color: #454544;
 	text-decoration: none;
-	font-size: 12pt;
+	font-size: 18pt;
+   font-weight: bold;
+}
+p {
+   font-size: 14px;
+}
+
+#serviceslist {
+   padding-top: 35px;
+   font-size: 12pt;
+   color: #FFA500;
+   font-weight: bold;
+   font-family: 'Merriweather';
 }
 h6 {
 	font-family: 'Droid Serif', Verdana, Arial, sans-serif;
@@ -573,6 +585,12 @@ Home Page CSS
 	width: 720px;
 	margin-top: 40px;
 }
+
+#Kanye {
+   text-align: center;
+   margin-left: 120px;
+}
+
 #follow h1 {
 	text-align: center;
 	font-size: 22px;
